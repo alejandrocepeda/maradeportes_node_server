@@ -1,0 +1,21 @@
+{
+  "name": "maradeportes",
+  "version": "1.0.0",
+  "description": "server node",
+  "main": "maradeportes.com.index.js",
+  "dependencies": {
+    "config-ini": "^0.2.2",
+    "config.ini": "0.0.51",
+    "express": "^4.16.2",
+    "knex": "^0.14.2",
+    "mysql": "^2.15.0",
+    "pm2": "^2.8.0",
+    "socket.io": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
